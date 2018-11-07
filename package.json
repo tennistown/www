@@ -1,0 +1,9 @@
+{
+  "name": "tennis.town",
+  "version": "0.1.0",
+  "description": "TennisTown's website",
+  "main": "index.js",
+  "repository": "https://github.com/tennistown/www.git",
+  "author": "Victor Cinaglia <victorcinaglia@gmail.com>",
+  "license": "MIT"
+}
